@@ -1,0 +1,40 @@
+body{
+    background-color:hsl(220, 15%, 55%);
+    font-size: 15px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+
+}
+h1{
+    font-weight: 700;
+    text-align: center;
+
+}
+p{
+    font-weight: 400;
+    text-align: center;
+
+}
+.container{
+     background-color:hsl(0, 0%, 100%);
+     border-radius: 20px;
+     max-width:375px;
+     width: 350px;
+     padding: 20px;
+    
+     
+}
+
+.cont-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+   
+}
